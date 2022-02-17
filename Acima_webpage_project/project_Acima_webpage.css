@@ -1,0 +1,85 @@
+body{
+  
+    overflow-x: hidden;
+    font-weight: bold;
+}
+.class_1{
+    margin-left: 40px;
+    font-weight: bold;
+    text-decoration: none;
+   
+}
+ul a:hover{
+    text-decoration: underline red;
+}
+.class_2{
+    text-decoration: none;
+   color: white;
+   padding-left:15px ;
+   font-weight: bold;
+}
+.class_3{
+    background-color: rgb(5,0,68);
+    min-height: 525px;
+}
+.H3{
+    margin-bottom: revert;
+    font-weight: bold;
+    color: rgb(5,0,68);
+}
+.col-sm-3{
+ 
+box-shadow: rgb(28 21 71 /10%) 0px 12px 14px 0px;
+border-radius: 8px;
+background-color: rgb(255 , 255 ,255);
+border: 1px solid rgb(234,233,242);
+text-align: center;
+height: 300px;
+
+
+}
+.col-sm-1{
+    margin: -31px;
+}
+.div5 ul{
+    
+    font-weight:bold ;
+    list-style-type:none;    
+
+}
+.div5 ul li a{
+    text-decoration: none;
+    color: rgb(5,0,68);
+}
+.div5 ul li a:hover{
+
+   text-decoration: underline red;
+}
+.div5 ul li{
+    padding-bottom: 15px;
+}
+.div5{
+    padding-top: 45px;
+}
+
+.div6 ul li a{
+
+    padding-left: 20px;
+    
+}
+
+.div7 ul li a{
+    
+    list-style-type: none;
+    color: #696871;
+  text-decoration: none;
+  padding-left: 20px;
+}
+.div7 ul {
+    list-style-type: none;
+}
+.div7 a:hover{
+    text-decoration: underline #696871;
+}
+
+
